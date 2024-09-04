@@ -1,0 +1,5 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/Cylon_LED]=101000000000000000000002F7F44B0D
+DEVICE_TYPE[/home/studio/workspace/Cylon_LED]=connected
+TARGET=LPC1768
+TARGET_CODE=1010

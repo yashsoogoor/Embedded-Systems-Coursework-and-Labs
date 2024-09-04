@@ -1,0 +1,7 @@
+data/mbed-os.lib.i
+data/main.cpp.i
+data/icm20948.cpp.i
+data/icm20948.h.i
+data/mbed_app.json.i
+data/ahrs.h.i
+data/ahrs.cpp.i

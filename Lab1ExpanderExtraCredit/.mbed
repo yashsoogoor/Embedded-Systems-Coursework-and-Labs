@@ -1,0 +1,7 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/MCP23S17_Basic_IO_Demo]=101000000000000000000002F7F44B0D
+DEVICE_TYPE[/home/studio/workspace/MCP23S17_Basic_IO_Demo]=connected
+TARGET=LPC1768
+TARGET_CODE=1010
+DEVICE_ID[/home/studio/workspace/Lab1ExpanderExtraCredit]=101000000000000000000002F7F44B0D
+DEVICE_TYPE[/home/studio/workspace/Lab1ExpanderExtraCredit]=connected

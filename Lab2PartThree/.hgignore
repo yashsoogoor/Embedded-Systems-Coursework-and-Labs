@@ -1,0 +1,9 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^mbed$
+^4DGL-uLCD-SE$
+^LSM9DS1_Library_cal$
+^RPCInterface$
